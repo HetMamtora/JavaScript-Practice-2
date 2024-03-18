@@ -1,0 +1,1 @@
+console.log("10) Change the text of a paragraph on a webpage using JavaScript.");
