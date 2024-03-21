@@ -1,4 +1,4 @@
-
+console.log("32) Implement a form validation function that checks if all required fields are filled out.")
 
 function validateForm(){
     let form = document.getElementById("myForm");
