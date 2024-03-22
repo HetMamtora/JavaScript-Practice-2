@@ -13,7 +13,7 @@ function handleData(data){
 
 function main(){
     const apiUrl1 = 'https://jsonplaceholder.typicode.com/posts/1';
-    const apiUrl2 = 'https://jsonplaceholder.typicode.com/posts/1';
+    const apiUrl2 = 'https://jsonplaceholder.typicode.com/posts/2';
 
     makeAPICall(apiUrl1,handleData);
     makeAPICall(apiUrl2,handleData);
